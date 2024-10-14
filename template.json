@@ -1,0 +1,7 @@
+{
+  "name": "wails template with Vite + TypeScript + React + Tailwind + shadcn/ui",
+  "shortname": "wails-vite-ts-react-tailwind-shadcn",
+  "author": "Abdelrahman-habib",
+  "description": "A Wails template generated with Vite CLI that includes React, Tailwind, shadcn/ui, and TypeScript",
+  "helpurl": "https://github.com/Abdelrahman-habib/wails-vite-ts-react-tailwind-shadcn"
+}
